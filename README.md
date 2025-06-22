@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ramya
-- 🌱 I’m currently learning Web Development
+- 🌱 I'm proficient in HTML,CSS,JavaScrip
+- Learning React js
+- DSA in C++
 - 
 
 
