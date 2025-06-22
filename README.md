@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ramya
-- 🌱 I'm proficient in HTML,CSS,JavaScrip
+- 🌱 I'm proficient in HTML,CSS,JavaScript
 - Learning React js
 - DSA in C++
-- 
+  
 
 
 <!---
